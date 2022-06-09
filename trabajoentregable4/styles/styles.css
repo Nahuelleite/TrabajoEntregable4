@@ -1,0 +1,29 @@
+.cabezera {
+    background: rgb(255, 201, 201);
+    color: white;
+    padding: 5px;
+    text-align: center;
+}
+.container {
+    height: 600px;
+}
+.col-sm-4 {
+    text-align: center;
+    background-position: center center;
+    background-size: 100% 100%;
+}
+.argentina {
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/1200px-Flag_of_Argentina.svg.png);
+}
+.brasil {
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/1200px-Flag_of_Brazil.svg.png);
+}
+.chile {
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/1200px-Flag_of_Chile.svg.png);
+}
+.titulo {
+    font-size: 30px;
+}
+.texto {
+    background-color: rgb(255, 244, 244, 0.4)
+}
